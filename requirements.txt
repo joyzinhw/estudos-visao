@@ -1,9 +1,3 @@
 opencv-python
-heapq
-collections 
-deque
-numpy 
-matplotlib.pyplot 
-random
-cv2
-shapely
+numpy
+matplotlib
